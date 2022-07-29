@@ -22,7 +22,7 @@ I am a novice programmer learning front-end on my own foralmost a year. At the b
 
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> SASS
 
-<img align="left" alt="StyledComponents" width="26px" src="./img/styled-components.svg" /> Styled-components
+<img align="left" alt="StyledComponents" width="26px" src="./img/styled-components.png" /> Styled-components
 
 <img align="left" alt="TailwindCss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> Tailwind CSS
 
